@@ -1,0 +1,10 @@
+D:\Tecnico\2017\TPV (Visual basic)\2ºBimestre\Folha\Folha\bin\Release\Folha.exe
+D:\Tecnico\2017\TPV (Visual basic)\2ºBimestre\Folha\Folha\bin\Release\Folha.pdb
+D:\Tecnico\2017\TPV (Visual basic)\2ºBimestre\Folha\Folha\bin\Release\Folha.xml
+D:\Tecnico\2017\TPV (Visual basic)\2ºBimestre\Folha\Folha\obj\Release\ResolveAssemblyReference.cache
+D:\Tecnico\2017\TPV (Visual basic)\2ºBimestre\Folha\Folha\obj\Release\Folha.Form1.resources
+D:\Tecnico\2017\TPV (Visual basic)\2ºBimestre\Folha\Folha\obj\Release\Folha.Resources.resources
+D:\Tecnico\2017\TPV (Visual basic)\2ºBimestre\Folha\Folha\obj\Release\Folha.vbproj.GenerateResource.Cache
+D:\Tecnico\2017\TPV (Visual basic)\2ºBimestre\Folha\Folha\obj\Release\Folha.exe
+D:\Tecnico\2017\TPV (Visual basic)\2ºBimestre\Folha\Folha\obj\Release\Folha.xml
+D:\Tecnico\2017\TPV (Visual basic)\2ºBimestre\Folha\Folha\obj\Release\Folha.pdb

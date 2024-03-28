@@ -1,0 +1,13 @@
+D:\Tecnico\2017\TPV (Visual basic)\2ºBimestre\Carros\Carros\obj\Debug\ResolveAssemblyReference.cache
+D:\Tecnico\2017\TPV (Visual basic)\2ºBimestre\Carros\Carros\obj\Debug\WindowsApplication1.Form1.resources
+D:\Tecnico\2017\TPV (Visual basic)\2ºBimestre\Carros\Carros\obj\Debug\WindowsApplication1.Resources.resources
+D:\Tecnico\2017\TPV (Visual basic)\2ºBimestre\Carros\Carros\obj\Debug\Carros.vbproj.GenerateResource.Cache
+D:\Tecnico\2017\TPV (Visual basic)\2ºBimestre\Carros\Carros\bin\Debug\Carros.exe
+D:\Tecnico\2017\TPV (Visual basic)\2ºBimestre\Carros\Carros\bin\Debug\Carros.pdb
+D:\Tecnico\2017\TPV (Visual basic)\2ºBimestre\Carros\Carros\bin\Debug\Carros.xml
+D:\Tecnico\2017\TPV (Visual basic)\2ºBimestre\Carros\Carros\obj\Debug\Carros.exe
+D:\Tecnico\2017\TPV (Visual basic)\2ºBimestre\Carros\Carros\obj\Debug\Carros.xml
+D:\Tecnico\2017\TPV (Visual basic)\2ºBimestre\Carros\Carros\obj\Debug\Carros.pdb
+E:\Tecnico\2017\TPV (Visual basic)\2ºBimestre\Carros\Carros\obj\Debug\Carros.exe
+E:\Tecnico\2017\TPV (Visual basic)\2ºBimestre\Carros\Carros\obj\Debug\Carros.xml
+E:\Tecnico\2017\TPV (Visual basic)\2ºBimestre\Carros\Carros\obj\Debug\Carros.pdb

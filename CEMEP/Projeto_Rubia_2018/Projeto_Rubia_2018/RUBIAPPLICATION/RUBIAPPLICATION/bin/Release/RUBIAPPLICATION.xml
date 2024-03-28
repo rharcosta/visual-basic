@@ -1,0 +1,159 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+RUBIAPPLICATION
+</name>
+</assembly>
+<members>
+<member name="T:RUBIAPPLICATION.BDSystem1DataSet.EditoraDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:RUBIAPPLICATION.BDSystem1DataSet.FuncionárioDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:RUBIAPPLICATION.BDSystem1DataSet.Item_LocaçãoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:RUBIAPPLICATION.BDSystem1DataSet.LivroDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:RUBIAPPLICATION.BDSystem1DataSet.LocaçãoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:RUBIAPPLICATION.BDSystem1DataSet.LocatárioDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:RUBIAPPLICATION.BDSystem1DataSet.PerfilDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:RUBIAPPLICATION.BDSystem1DataSet.EditoraRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:RUBIAPPLICATION.BDSystem1DataSet.FuncionárioRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:RUBIAPPLICATION.BDSystem1DataSet.Item_LocaçãoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:RUBIAPPLICATION.BDSystem1DataSet.LivroRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:RUBIAPPLICATION.BDSystem1DataSet.LocaçãoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:RUBIAPPLICATION.BDSystem1DataSet.LocatárioRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:RUBIAPPLICATION.BDSystem1DataSet.PerfilRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:RUBIAPPLICATION.BDSystem1DataSet.EditoraRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:RUBIAPPLICATION.BDSystem1DataSet.FuncionárioRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:RUBIAPPLICATION.BDSystem1DataSet.Item_LocaçãoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:RUBIAPPLICATION.BDSystem1DataSet.LivroRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:RUBIAPPLICATION.BDSystem1DataSet.LocaçãoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:RUBIAPPLICATION.BDSystem1DataSet.LocatárioRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:RUBIAPPLICATION.BDSystem1DataSet.PerfilRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:RUBIAPPLICATION.BDSystem1DataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:RUBIAPPLICATION.BDSystem1DataSetTableAdapters.EditoraTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:RUBIAPPLICATION.BDSystem1DataSetTableAdapters.FuncionárioTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:RUBIAPPLICATION.BDSystem1DataSetTableAdapters.Item_LocaçãoTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:RUBIAPPLICATION.BDSystem1DataSetTableAdapters.LivroTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:RUBIAPPLICATION.BDSystem1DataSetTableAdapters.LocaçãoTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:RUBIAPPLICATION.BDSystem1DataSetTableAdapters.LocatárioTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:RUBIAPPLICATION.BDSystem1DataSetTableAdapters.PerfilTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:RUBIAPPLICATION.BDSystem1DataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(RUBIAPPLICATION.BDSystem1DataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:RUBIAPPLICATION.BDSystem1DataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(RUBIAPPLICATION.BDSystem1DataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:RUBIAPPLICATION.BDSystem1DataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(RUBIAPPLICATION.BDSystem1DataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:RUBIAPPLICATION.BDSystem1DataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:RUBIAPPLICATION.BDSystem1DataSetTableAdapters.TableAdapterManager.UpdateAll(RUBIAPPLICATION.BDSystem1DataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:RUBIAPPLICATION.BDSystem1DataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:RUBIAPPLICATION.BDSystem1DataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:RUBIAPPLICATION.BDSystem1DataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+</members>
+</doc>

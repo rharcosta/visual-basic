@@ -1,0 +1,175 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Sorveteria
+</name>
+</assembly>
+<members>
+<member name="T:Sorveteria.SorveteriaDataSet.ClientesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Sorveteria.SorveteriaDataSet.FornecedoresDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Sorveteria.SorveteriaDataSet.FuncionáriosDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Sorveteria.SorveteriaDataSet.LoginDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Sorveteria.SorveteriaDataSet.Nota_FiscalDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Sorveteria.SorveteriaDataSet.ProdutoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Sorveteria.SorveteriaDataSet.TransportadoraDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Sorveteria.SorveteriaDataSet.VendasDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Sorveteria.SorveteriaDataSet.ClientesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Sorveteria.SorveteriaDataSet.FornecedoresRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Sorveteria.SorveteriaDataSet.FuncionáriosRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Sorveteria.SorveteriaDataSet.LoginRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Sorveteria.SorveteriaDataSet.Nota_FiscalRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Sorveteria.SorveteriaDataSet.ProdutoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Sorveteria.SorveteriaDataSet.TransportadoraRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Sorveteria.SorveteriaDataSet.VendasRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Sorveteria.SorveteriaDataSet.ClientesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Sorveteria.SorveteriaDataSet.FornecedoresRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Sorveteria.SorveteriaDataSet.FuncionáriosRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Sorveteria.SorveteriaDataSet.LoginRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Sorveteria.SorveteriaDataSet.Nota_FiscalRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Sorveteria.SorveteriaDataSet.ProdutoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Sorveteria.SorveteriaDataSet.TransportadoraRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Sorveteria.SorveteriaDataSet.VendasRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Sorveteria.SorveteriaDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Sorveteria.SorveteriaDataSetTableAdapters.ClientesTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Sorveteria.SorveteriaDataSetTableAdapters.FornecedoresTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Sorveteria.SorveteriaDataSetTableAdapters.FuncionáriosTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Sorveteria.SorveteriaDataSetTableAdapters.LoginTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Sorveteria.SorveteriaDataSetTableAdapters.Nota_FiscalTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Sorveteria.SorveteriaDataSetTableAdapters.ProdutoTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Sorveteria.SorveteriaDataSetTableAdapters.TransportadoraTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Sorveteria.SorveteriaDataSetTableAdapters.VendasTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:Sorveteria.SorveteriaDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(Sorveteria.SorveteriaDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:Sorveteria.SorveteriaDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(Sorveteria.SorveteriaDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:Sorveteria.SorveteriaDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(Sorveteria.SorveteriaDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:Sorveteria.SorveteriaDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:Sorveteria.SorveteriaDataSetTableAdapters.TableAdapterManager.UpdateAll(Sorveteria.SorveteriaDataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:Sorveteria.SorveteriaDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:Sorveteria.SorveteriaDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:Sorveteria.SorveteriaDataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+</members>
+</doc>

@@ -1,0 +1,13 @@
+D:\Tecnico\2017\TPV (Visual basic)\Salario_liquido\Salario_liquido\obj\Debug\ResolveAssemblyReference.cache
+D:\Tecnico\2017\TPV (Visual basic)\Salario_liquido\Salario_liquido\obj\Debug\WindowsApplication1.Form1.resources
+D:\Tecnico\2017\TPV (Visual basic)\Salario_liquido\Salario_liquido\obj\Debug\WindowsApplication1.Resources.resources
+D:\Tecnico\2017\TPV (Visual basic)\Salario_liquido\Salario_liquido\obj\Debug\Salario_liquido.vbproj.GenerateResource.Cache
+D:\Tecnico\2017\TPV (Visual basic)\Salario_liquido\Salario_liquido\bin\Debug\Salario_liquido.exe
+D:\Tecnico\2017\TPV (Visual basic)\Salario_liquido\Salario_liquido\bin\Debug\Salario_liquido.pdb
+D:\Tecnico\2017\TPV (Visual basic)\Salario_liquido\Salario_liquido\bin\Debug\Salario_liquido.xml
+D:\Tecnico\2017\TPV (Visual basic)\Salario_liquido\Salario_liquido\obj\Debug\Salario_liquido.exe
+D:\Tecnico\2017\TPV (Visual basic)\Salario_liquido\Salario_liquido\obj\Debug\Salario_liquido.xml
+D:\Tecnico\2017\TPV (Visual basic)\Salario_liquido\Salario_liquido\obj\Debug\Salario_liquido.pdb
+D:\Tecnico\2017\TPV (Visual basic)\Rubia-2ºW\Salario_liquido\Salario_liquido\obj\Debug\Salario_liquido.exe
+D:\Tecnico\2017\TPV (Visual basic)\Rubia-2ºW\Salario_liquido\Salario_liquido\obj\Debug\Salario_liquido.xml
+D:\Tecnico\2017\TPV (Visual basic)\Rubia-2ºW\Salario_liquido\Salario_liquido\obj\Debug\Salario_liquido.pdb

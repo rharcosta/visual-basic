@@ -1,0 +1,26 @@
+C:\Users\Utilizador\AppData\Local\Temporary Projects\Concatenar\bin\Debug\Concatenar.exe
+C:\Users\Utilizador\AppData\Local\Temporary Projects\Concatenar\bin\Debug\Concatenar.pdb
+C:\Users\Utilizador\AppData\Local\Temporary Projects\Concatenar\bin\Debug\Concatenar.xml
+C:\Users\Utilizador\AppData\Local\Temporary Projects\Concatenar\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Utilizador\AppData\Local\Temporary Projects\Concatenar\obj\Debug\Concatenar.Frnconcatenar.resources
+C:\Users\Utilizador\AppData\Local\Temporary Projects\Concatenar\obj\Debug\Concatenar.Resources.resources
+C:\Users\Utilizador\AppData\Local\Temporary Projects\Concatenar\obj\Debug\Concatenar.vbproj.GenerateResource.Cache
+C:\Users\Utilizador\AppData\Local\Temporary Projects\Concatenar\obj\Debug\Concatenar.exe
+C:\Users\Utilizador\AppData\Local\Temporary Projects\Concatenar\obj\Debug\Concatenar.xml
+C:\Users\Utilizador\AppData\Local\Temporary Projects\Concatenar\obj\Debug\Concatenar.pdb
+D:\Técnico\2017\Visual basic\Concatenar\Concatenar\obj\Debug\Concatenar.exe
+D:\Técnico\2017\Visual basic\Concatenar\Concatenar\obj\Debug\Concatenar.xml
+D:\Técnico\2017\Visual basic\Concatenar\Concatenar\obj\Debug\Concatenar.pdb
+D:\Técnico\2017\Mirella- TPV (Visual basic)\Concatenar\Concatenar\obj\Debug\Concatenar.exe
+D:\Técnico\2017\Mirella- TPV (Visual basic)\Concatenar\Concatenar\obj\Debug\Concatenar.xml
+D:\Técnico\2017\Mirella- TPV (Visual basic)\Concatenar\Concatenar\obj\Debug\Concatenar.pdb
+D:\Técnico\2017\Mirella- TPV (Visual basic)\Concatenar\Concatenar\bin\Debug\Concatenar.exe
+D:\Técnico\2017\Mirella- TPV (Visual basic)\Concatenar\Concatenar\bin\Debug\Concatenar.pdb
+D:\Técnico\2017\Mirella- TPV (Visual basic)\Concatenar\Concatenar\bin\Debug\Concatenar.xml
+D:\Técnico\2017\Mirella- TPV (Visual basic)\Concatenar\Concatenar\obj\Debug\ResolveAssemblyReference.cache
+D:\Técnico\2017\Mirella- TPV (Visual basic)\Concatenar\Concatenar\obj\Debug\Concatenar.Frnconcatenar.resources
+D:\Técnico\2017\Mirella- TPV (Visual basic)\Concatenar\Concatenar\obj\Debug\Concatenar.Resources.resources
+D:\Técnico\2017\Mirella- TPV (Visual basic)\Concatenar\Concatenar\obj\Debug\Concatenar.vbproj.GenerateResource.Cache
+D:\Tecnico\2017\TPV (Visual basic)\Concatenar\Concatenar\obj\Debug\Concatenar.exe
+D:\Tecnico\2017\TPV (Visual basic)\Concatenar\Concatenar\obj\Debug\Concatenar.xml
+D:\Tecnico\2017\TPV (Visual basic)\Concatenar\Concatenar\obj\Debug\Concatenar.pdb

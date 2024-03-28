@@ -1,0 +1,33 @@
+D:\Técnico\2017\Mirella- TPV (Visual basic)\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+D:\Técnico\2017\Mirella- TPV (Visual basic)\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+D:\Técnico\2017\Mirella- TPV (Visual basic)\Calculadora\Calculadora\bin\Debug\Calculadora.xml
+D:\Técnico\2017\Mirella- TPV (Visual basic)\Calculadora\Calculadora\obj\Debug\ResolveAssemblyReference.cache
+D:\Técnico\2017\Mirella- TPV (Visual basic)\Calculadora\Calculadora\obj\Debug\WindowsApplication1.Form1.resources
+D:\Técnico\2017\Mirella- TPV (Visual basic)\Calculadora\Calculadora\obj\Debug\WindowsApplication1.Resources.resources
+D:\Técnico\2017\Mirella- TPV (Visual basic)\Calculadora\Calculadora\obj\Debug\Calculadora.vbproj.GenerateResource.Cache
+D:\Técnico\2017\Mirella- TPV (Visual basic)\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+D:\Técnico\2017\Mirella- TPV (Visual basic)\Calculadora\Calculadora\obj\Debug\Calculadora.xml
+D:\Técnico\2017\Mirella- TPV (Visual basic)\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
+D:\Tecnico\2017\TPV (Visual basic)\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+D:\Tecnico\2017\TPV (Visual basic)\Calculadora\Calculadora\obj\Debug\Calculadora.xml
+D:\Tecnico\2017\TPV (Visual basic)\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
+D:\Tecnico\2017\TPV (Visual basic)\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+D:\Tecnico\2017\TPV (Visual basic)\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+D:\Tecnico\2017\TPV (Visual basic)\Calculadora\Calculadora\bin\Debug\Calculadora.xml
+D:\Tecnico\2017\TPV (Visual basic)\Calculadora\Calculadora\obj\Debug\ResolveAssemblyReference.cache
+D:\Tecnico\2017\TPV (Visual basic)\Calculadora\Calculadora\obj\Debug\WindowsApplication1.Form1.resources
+D:\Tecnico\2017\TPV (Visual basic)\Calculadora\Calculadora\obj\Debug\WindowsApplication1.Resources.resources
+D:\Tecnico\2017\TPV (Visual basic)\Calculadora\Calculadora\obj\Debug\Calculadora.vbproj.GenerateResource.Cache
+D:\Tecnico\2017\TPV (Visual basic)\2ºBimestre\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+D:\Tecnico\2017\TPV (Visual basic)\2ºBimestre\Calculadora\Calculadora\obj\Debug\Calculadora.xml
+D:\Tecnico\2017\TPV (Visual basic)\2ºBimestre\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
+D:\Tecnico\2017\TPV (Visual basic)\2ºBimestre\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+D:\Tecnico\2017\TPV (Visual basic)\2ºBimestre\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+D:\Tecnico\2017\TPV (Visual basic)\2ºBimestre\Calculadora\Calculadora\bin\Debug\Calculadora.xml
+D:\Tecnico\2017\TPV (Visual basic)\2ºBimestre\Calculadora\Calculadora\obj\Debug\ResolveAssemblyReference.cache
+D:\Tecnico\2017\TPV (Visual basic)\2ºBimestre\Calculadora\Calculadora\obj\Debug\WindowsApplication1.Form1.resources
+D:\Tecnico\2017\TPV (Visual basic)\2ºBimestre\Calculadora\Calculadora\obj\Debug\WindowsApplication1.Resources.resources
+D:\Tecnico\2017\TPV (Visual basic)\2ºBimestre\Calculadora\Calculadora\obj\Debug\Calculadora.vbproj.GenerateResource.Cache
+C:\Users\Usuario\Documents\Rubia\Tecnico\2017\TPV (Visual basic)\2_Bimestre\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+C:\Users\Usuario\Documents\Rubia\Tecnico\2017\TPV (Visual basic)\2_Bimestre\Calculadora\Calculadora\obj\Debug\Calculadora.xml
+C:\Users\Usuario\Documents\Rubia\Tecnico\2017\TPV (Visual basic)\2_Bimestre\Calculadora\Calculadora\obj\Debug\Calculadora.pdb

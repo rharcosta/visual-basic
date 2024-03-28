@@ -1,0 +1,17 @@
+E:\Tecnico\2018\TPV2-VB\1_Bimestre\Rubia\Volei\Volei\bin\Release\Volei.exe
+E:\Tecnico\2018\TPV2-VB\1_Bimestre\Rubia\Volei\Volei\bin\Release\Volei.pdb
+E:\Tecnico\2018\TPV2-VB\1_Bimestre\Rubia\Volei\Volei\bin\Release\Volei.xml
+E:\Tecnico\2018\TPV2-VB\1_Bimestre\Rubia\Volei\Volei\obj\Release\ResolveAssemblyReference.cache
+E:\Tecnico\2018\TPV2-VB\1_Bimestre\Rubia\Volei\Volei\obj\Release\Volei.Form1.resources
+E:\Tecnico\2018\TPV2-VB\1_Bimestre\Rubia\Volei\Volei\obj\Release\Volei.FrmLogin.resources
+E:\Tecnico\2018\TPV2-VB\1_Bimestre\Rubia\Volei\Volei\obj\Release\Volei.FrmPrin.resources
+E:\Tecnico\2018\TPV2-VB\1_Bimestre\Rubia\Volei\Volei\obj\Release\Volei.Form4.resources
+E:\Tecnico\2018\TPV2-VB\1_Bimestre\Rubia\Volei\Volei\obj\Release\Volei.Form6.resources
+E:\Tecnico\2018\TPV2-VB\1_Bimestre\Rubia\Volei\Volei\obj\Release\Volei.Form7.resources
+E:\Tecnico\2018\TPV2-VB\1_Bimestre\Rubia\Volei\Volei\obj\Release\Volei.Form8.resources
+E:\Tecnico\2018\TPV2-VB\1_Bimestre\Rubia\Volei\Volei\obj\Release\Volei.Form9.resources
+E:\Tecnico\2018\TPV2-VB\1_Bimestre\Rubia\Volei\Volei\obj\Release\Volei.Resources.resources
+E:\Tecnico\2018\TPV2-VB\1_Bimestre\Rubia\Volei\Volei\obj\Release\Volei.vbproj.GenerateResource.Cache
+E:\Tecnico\2018\TPV2-VB\1_Bimestre\Rubia\Volei\Volei\obj\Release\Volei.exe
+E:\Tecnico\2018\TPV2-VB\1_Bimestre\Rubia\Volei\Volei\obj\Release\Volei.xml
+E:\Tecnico\2018\TPV2-VB\1_Bimestre\Rubia\Volei\Volei\obj\Release\Volei.pdb

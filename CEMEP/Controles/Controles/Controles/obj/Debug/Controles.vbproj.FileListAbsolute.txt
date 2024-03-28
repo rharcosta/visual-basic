@@ -1,0 +1,12 @@
+D:\Tecnico\2017\TPV (Visual basic)\3ºBimestre\Controles\Controles\bin\Debug\Controles.exe
+D:\Tecnico\2017\TPV (Visual basic)\3ºBimestre\Controles\Controles\bin\Debug\Controles.pdb
+D:\Tecnico\2017\TPV (Visual basic)\3ºBimestre\Controles\Controles\bin\Debug\Controles.xml
+D:\Tecnico\2017\TPV (Visual basic)\3ºBimestre\Controles\Controles\obj\Debug\ResolveAssemblyReference.cache
+D:\Tecnico\2017\TPV (Visual basic)\3ºBimestre\Controles\Controles\obj\Debug\Controles.Form1.resources
+D:\Tecnico\2017\TPV (Visual basic)\3ºBimestre\Controles\Controles\obj\Debug\Controles.Resources.resources
+D:\Tecnico\2017\TPV (Visual basic)\3ºBimestre\Controles\Controles\obj\Debug\Controles.vbproj.GenerateResource.Cache
+D:\Tecnico\2017\TPV (Visual basic)\3ºBimestre\Controles\Controles\obj\Debug\Controles.exe
+D:\Tecnico\2017\TPV (Visual basic)\3ºBimestre\Controles\Controles\obj\Debug\Controles.xml
+D:\Tecnico\2017\TPV (Visual basic)\3ºBimestre\Controles\Controles\obj\Debug\Controles.pdb
+E:\Tecnico\2017\TPV (Visual basic)\3ºBimestre\Controles\Controles\obj\Debug\Controles.xml
+E:\Tecnico\2017\TPV (Visual basic)\3ºBimestre\Controles\Controles\obj\Debug\Controles.pdb

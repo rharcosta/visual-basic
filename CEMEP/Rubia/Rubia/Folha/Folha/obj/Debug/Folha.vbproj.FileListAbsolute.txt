@@ -1,0 +1,16 @@
+D:\Tecnico\2017\TPV (Visual basic)\2ºBimestre\Folha\Folha\bin\Debug\Folha.exe
+D:\Tecnico\2017\TPV (Visual basic)\2ºBimestre\Folha\Folha\bin\Debug\Folha.pdb
+D:\Tecnico\2017\TPV (Visual basic)\2ºBimestre\Folha\Folha\bin\Debug\Folha.xml
+D:\Tecnico\2017\TPV (Visual basic)\2ºBimestre\Folha\Folha\obj\Debug\ResolveAssemblyReference.cache
+D:\Tecnico\2017\TPV (Visual basic)\2ºBimestre\Folha\Folha\obj\Debug\Folha.Form1.resources
+D:\Tecnico\2017\TPV (Visual basic)\2ºBimestre\Folha\Folha\obj\Debug\Folha.Resources.resources
+D:\Tecnico\2017\TPV (Visual basic)\2ºBimestre\Folha\Folha\obj\Debug\Folha.vbproj.GenerateResource.Cache
+D:\Tecnico\2017\TPV (Visual basic)\2ºBimestre\Folha\Folha\obj\Debug\Folha.exe
+D:\Tecnico\2017\TPV (Visual basic)\2ºBimestre\Folha\Folha\obj\Debug\Folha.xml
+D:\Tecnico\2017\TPV (Visual basic)\2ºBimestre\Folha\Folha\obj\Debug\Folha.pdb
+E:\Tecnico\2017\TPV (Visual basic)\2ºBimestre\Folha\Folha\obj\Debug\Folha.exe
+E:\Tecnico\2017\TPV (Visual basic)\2ºBimestre\Folha\Folha\obj\Debug\Folha.xml
+E:\Tecnico\2017\TPV (Visual basic)\2ºBimestre\Folha\Folha\obj\Debug\Folha.pdb
+D:\Tecnico\2017\TPV (Visual basic)\2ºBimestre\Rubia\Folha\Folha\obj\Debug\Folha.exe
+D:\Tecnico\2017\TPV (Visual basic)\2ºBimestre\Rubia\Folha\Folha\obj\Debug\Folha.xml
+D:\Tecnico\2017\TPV (Visual basic)\2ºBimestre\Rubia\Folha\Folha\obj\Debug\Folha.pdb

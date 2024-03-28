@@ -1,0 +1,10 @@
+D:\Tecnico\2017\TPV (Visual basic)\2ºBimestre\IMC\IMC\bin\Release\IMC.exe
+D:\Tecnico\2017\TPV (Visual basic)\2ºBimestre\IMC\IMC\bin\Release\IMC.pdb
+D:\Tecnico\2017\TPV (Visual basic)\2ºBimestre\IMC\IMC\bin\Release\IMC.xml
+D:\Tecnico\2017\TPV (Visual basic)\2ºBimestre\IMC\IMC\obj\Release\ResolveAssemblyReference.cache
+D:\Tecnico\2017\TPV (Visual basic)\2ºBimestre\IMC\IMC\obj\Release\WindowsApplication1.Imc.resources
+D:\Tecnico\2017\TPV (Visual basic)\2ºBimestre\IMC\IMC\obj\Release\WindowsApplication1.Resources.resources
+D:\Tecnico\2017\TPV (Visual basic)\2ºBimestre\IMC\IMC\obj\Release\IMC.vbproj.GenerateResource.Cache
+D:\Tecnico\2017\TPV (Visual basic)\2ºBimestre\IMC\IMC\obj\Release\IMC.exe
+D:\Tecnico\2017\TPV (Visual basic)\2ºBimestre\IMC\IMC\obj\Release\IMC.xml
+D:\Tecnico\2017\TPV (Visual basic)\2ºBimestre\IMC\IMC\obj\Release\IMC.pdb

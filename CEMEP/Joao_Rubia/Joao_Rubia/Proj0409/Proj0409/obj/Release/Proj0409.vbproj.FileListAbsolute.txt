@@ -1,0 +1,14 @@
+D:\Tecnico\2017\TPV (Visual basic)\3ºBimestre\Joao_Rubia\Proj0409\Proj0409\bin\Release\Proj0409.exe
+D:\Tecnico\2017\TPV (Visual basic)\3ºBimestre\Joao_Rubia\Proj0409\Proj0409\bin\Release\Proj0409.pdb
+D:\Tecnico\2017\TPV (Visual basic)\3ºBimestre\Joao_Rubia\Proj0409\Proj0409\bin\Release\Proj0409.xml
+D:\Tecnico\2017\TPV (Visual basic)\3ºBimestre\Joao_Rubia\Proj0409\Proj0409\obj\Release\ResolveAssemblyReference.cache
+D:\Tecnico\2017\TPV (Visual basic)\3ºBimestre\Joao_Rubia\Proj0409\Proj0409\obj\Release\WindowsApplication1.Resources.resources
+D:\Tecnico\2017\TPV (Visual basic)\3ºBimestre\Joao_Rubia\Proj0409\Proj0409\obj\Release\Proj0409.vbproj.GenerateResource.Cache
+D:\Tecnico\2017\TPV (Visual basic)\3ºBimestre\Joao_Rubia\Proj0409\Proj0409\obj\Release\Proj0409.exe
+D:\Tecnico\2017\TPV (Visual basic)\3ºBimestre\Joao_Rubia\Proj0409\Proj0409\obj\Release\Proj0409.xml
+D:\Tecnico\2017\TPV (Visual basic)\3ºBimestre\Joao_Rubia\Proj0409\Proj0409\obj\Release\Proj0409.pdb
+D:\Tecnico\2017\TPV (Visual basic)\3ºBimestre\Joao_Rubia\Proj0409\Proj0409\obj\Release\WindowsApplication1.FrmCarro.resources
+D:\Tecnico\2017\TPV (Visual basic)\3ºBimestre\Joao_Rubia\Proj0409\Proj0409\obj\Release\WindowsApplication1.Form2.resources
+D:\Tecnico\2017\TPV (Visual basic)\3ºBimestre\Joao_Rubia\Proj0409\Proj0409\obj\Release\WindowsApplication1.LoginForm1.resources
+D:\Tecnico\2017\TPV (Visual basic)\3ºBimestre\Joao_Rubia\Proj0409\Proj0409\obj\Release\WindowsApplication1.SplashScreen1.resources
+D:\Tecnico\2017\TPV (Visual basic)\3ºBimestre\Joao_Rubia\Proj0409\Proj0409\obj\Release\WindowsApplication1.AboutBox1.resources

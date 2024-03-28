@@ -1,0 +1,10 @@
+D:\Tecnico\2017\TPV (Visual basic)\3ºBimestre\Viagem\Viagem\bin\Debug\Viagem.exe
+D:\Tecnico\2017\TPV (Visual basic)\3ºBimestre\Viagem\Viagem\bin\Debug\Viagem.pdb
+D:\Tecnico\2017\TPV (Visual basic)\3ºBimestre\Viagem\Viagem\bin\Debug\Viagem.xml
+D:\Tecnico\2017\TPV (Visual basic)\3ºBimestre\Viagem\Viagem\obj\Debug\ResolveAssemblyReference.cache
+D:\Tecnico\2017\TPV (Visual basic)\3ºBimestre\Viagem\Viagem\obj\Debug\Viagem.Form1.resources
+D:\Tecnico\2017\TPV (Visual basic)\3ºBimestre\Viagem\Viagem\obj\Debug\Viagem.Resources.resources
+D:\Tecnico\2017\TPV (Visual basic)\3ºBimestre\Viagem\Viagem\obj\Debug\Viagem.vbproj.GenerateResource.Cache
+D:\Tecnico\2017\TPV (Visual basic)\3ºBimestre\Viagem\Viagem\obj\Debug\Viagem.exe
+D:\Tecnico\2017\TPV (Visual basic)\3ºBimestre\Viagem\Viagem\obj\Debug\Viagem.xml
+D:\Tecnico\2017\TPV (Visual basic)\3ºBimestre\Viagem\Viagem\obj\Debug\Viagem.pdb

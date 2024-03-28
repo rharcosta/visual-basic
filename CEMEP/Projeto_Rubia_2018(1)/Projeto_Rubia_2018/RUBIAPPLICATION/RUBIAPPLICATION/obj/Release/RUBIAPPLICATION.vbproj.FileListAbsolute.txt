@@ -1,0 +1,16 @@
+D:\Tecnico\2018\Mirella- TPV2\1_Bimestre\Rubia\RUBIAPPLICATION\RUBIAPPLICATION\bin\Release\RUBIAPPLICATION.exe
+D:\Tecnico\2018\Mirella- TPV2\1_Bimestre\Rubia\RUBIAPPLICATION\RUBIAPPLICATION\bin\Release\RUBIAPPLICATION.pdb
+D:\Tecnico\2018\Mirella- TPV2\1_Bimestre\Rubia\RUBIAPPLICATION\RUBIAPPLICATION\bin\Release\RUBIAPPLICATION.xml
+D:\Tecnico\2018\Mirella- TPV2\1_Bimestre\Rubia\RUBIAPPLICATION\RUBIAPPLICATION\obj\Release\ResolveAssemblyReference.cache
+D:\Tecnico\2018\Mirella- TPV2\1_Bimestre\Rubia\RUBIAPPLICATION\RUBIAPPLICATION\obj\Release\RUBIAPPLICATION.FrmSplash.resources
+D:\Tecnico\2018\Mirella- TPV2\1_Bimestre\Rubia\RUBIAPPLICATION\RUBIAPPLICATION\obj\Release\RUBIAPPLICATION.Form10.resources
+D:\Tecnico\2018\Mirella- TPV2\1_Bimestre\Rubia\RUBIAPPLICATION\RUBIAPPLICATION\obj\Release\RUBIAPPLICATION.Form2.resources
+D:\Tecnico\2018\Mirella- TPV2\1_Bimestre\Rubia\RUBIAPPLICATION\RUBIAPPLICATION\obj\Release\RUBIAPPLICATION.FrmPrin.resources
+D:\Tecnico\2018\Mirella- TPV2\1_Bimestre\Rubia\RUBIAPPLICATION\RUBIAPPLICATION\obj\Release\RUBIAPPLICATION.FrmLogin.resources
+D:\Tecnico\2018\Mirella- TPV2\1_Bimestre\Rubia\RUBIAPPLICATION\RUBIAPPLICATION\obj\Release\RUBIAPPLICATION.Form8.resources
+D:\Tecnico\2018\Mirella- TPV2\1_Bimestre\Rubia\RUBIAPPLICATION\RUBIAPPLICATION\obj\Release\RUBIAPPLICATION.Form9.resources
+D:\Tecnico\2018\Mirella- TPV2\1_Bimestre\Rubia\RUBIAPPLICATION\RUBIAPPLICATION\obj\Release\RUBIAPPLICATION.Resources.resources
+D:\Tecnico\2018\Mirella- TPV2\1_Bimestre\Rubia\RUBIAPPLICATION\RUBIAPPLICATION\obj\Release\RUBIAPPLICATION.vbproj.GenerateResource.Cache
+D:\Tecnico\2018\Mirella- TPV2\1_Bimestre\Rubia\RUBIAPPLICATION\RUBIAPPLICATION\obj\Release\RUBIAPPLICATION.exe
+D:\Tecnico\2018\Mirella- TPV2\1_Bimestre\Rubia\RUBIAPPLICATION\RUBIAPPLICATION\obj\Release\RUBIAPPLICATION.xml
+D:\Tecnico\2018\Mirella- TPV2\1_Bimestre\Rubia\RUBIAPPLICATION\RUBIAPPLICATION\obj\Release\RUBIAPPLICATION.pdb

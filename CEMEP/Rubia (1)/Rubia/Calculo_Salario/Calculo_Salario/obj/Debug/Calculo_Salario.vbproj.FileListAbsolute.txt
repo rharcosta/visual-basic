@@ -1,0 +1,12 @@
+D:\Tecnico\2017\TPV (Visual basic)\3ºBimestre\Rubia\Calculo_Salario\Calculo_Salario\bin\Debug\Calculo_Salario.exe
+D:\Tecnico\2017\TPV (Visual basic)\3ºBimestre\Rubia\Calculo_Salario\Calculo_Salario\bin\Debug\Calculo_Salario.pdb
+D:\Tecnico\2017\TPV (Visual basic)\3ºBimestre\Rubia\Calculo_Salario\Calculo_Salario\bin\Debug\Calculo_Salario.xml
+D:\Tecnico\2017\TPV (Visual basic)\3ºBimestre\Rubia\Calculo_Salario\Calculo_Salario\obj\Debug\ResolveAssemblyReference.cache
+D:\Tecnico\2017\TPV (Visual basic)\3ºBimestre\Rubia\Calculo_Salario\Calculo_Salario\obj\Debug\Calculo_Salario.Form1.resources
+D:\Tecnico\2017\TPV (Visual basic)\3ºBimestre\Rubia\Calculo_Salario\Calculo_Salario\obj\Debug\Calculo_Salario.Resources.resources
+D:\Tecnico\2017\TPV (Visual basic)\3ºBimestre\Rubia\Calculo_Salario\Calculo_Salario\obj\Debug\Calculo_Salario.vbproj.GenerateResource.Cache
+D:\Tecnico\2017\TPV (Visual basic)\3ºBimestre\Rubia\Calculo_Salario\Calculo_Salario\obj\Debug\Calculo_Salario.exe
+D:\Tecnico\2017\TPV (Visual basic)\3ºBimestre\Rubia\Calculo_Salario\Calculo_Salario\obj\Debug\Calculo_Salario.xml
+D:\Tecnico\2017\TPV (Visual basic)\3ºBimestre\Rubia\Calculo_Salario\Calculo_Salario\obj\Debug\Calculo_Salario.pdb
+E:\Tecnico\2017\TPV (Visual basic)\3ºBimestre\Rubia\Calculo_Salario\Calculo_Salario\obj\Debug\Calculo_Salario.xml
+E:\Tecnico\2017\TPV (Visual basic)\3ºBimestre\Rubia\Calculo_Salario\Calculo_Salario\obj\Debug\Calculo_Salario.pdb

@@ -1,0 +1,16 @@
+C:\Teste_Mensagem\Teste_Mensagem\bin\Debug\Teste_Mensagem.exe
+C:\Teste_Mensagem\Teste_Mensagem\bin\Debug\Teste_Mensagem.pdb
+C:\Teste_Mensagem\Teste_Mensagem\bin\Debug\Teste_Mensagem.xml
+C:\Teste_Mensagem\Teste_Mensagem\obj\Debug\ResolveAssemblyReference.cache
+C:\Teste_Mensagem\Teste_Mensagem\obj\Debug\WindowsApplication1.Form1.resources
+C:\Teste_Mensagem\Teste_Mensagem\obj\Debug\WindowsApplication1.Resources.resources
+C:\Teste_Mensagem\Teste_Mensagem\obj\Debug\Teste_Mensagem.vbproj.GenerateResource.Cache
+C:\Teste_Mensagem\Teste_Mensagem\obj\Debug\Teste_Mensagem.exe
+C:\Teste_Mensagem\Teste_Mensagem\obj\Debug\Teste_Mensagem.xml
+C:\Teste_Mensagem\Teste_Mensagem\obj\Debug\Teste_Mensagem.pdb
+D:\Tecnico\2017\TPV (Visual basic)\Teste_Mensagem\Teste_Mensagem\obj\Debug\Teste_Mensagem.exe
+D:\Tecnico\2017\TPV (Visual basic)\Teste_Mensagem\Teste_Mensagem\obj\Debug\Teste_Mensagem.xml
+D:\Tecnico\2017\TPV (Visual basic)\Teste_Mensagem\Teste_Mensagem\obj\Debug\Teste_Mensagem.pdb
+E:\Tecnico\2017\TPV (Visual basic)\Teste_Mensagem\Teste_Mensagem\obj\Debug\Teste_Mensagem.exe
+E:\Tecnico\2017\TPV (Visual basic)\Teste_Mensagem\Teste_Mensagem\obj\Debug\Teste_Mensagem.xml
+E:\Tecnico\2017\TPV (Visual basic)\Teste_Mensagem\Teste_Mensagem\obj\Debug\Teste_Mensagem.pdb
